@@ -19,8 +19,8 @@ routes = [
 ]
 
 [[kv_namespaces]]
-binding = "NEKOPOI"
-id = "1c679409d1094ee7ac6d29d866d7a305"
+binding = "SIREN"
+id = "fa7aef2afe4643168dae8bc527a914c5"
 
 [build]
 command = "cargo install -q worker-build && worker-build --release"
